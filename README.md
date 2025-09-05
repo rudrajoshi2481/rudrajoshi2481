@@ -11,7 +11,6 @@
 - 🧬 **Pharmacoinformatics Leader**: Heading a team funded by SSIP Hub to design and study anticancer drugs
 - 🛠️ **Tool Developer**: Created 'Sorcery Labs,' a GitHub alternative for bioinformatics professionals
 - 🧠 **Research Interests**: Ligand-protein interactions, molecular dynamics, statistical mechanics, and more
-- 📚 **Book Lover**: "A reader lives a thousand lives before he dies..."
 
 ### 🛠️ **Tech Stack**
 - **Languages**: Python, Go, JavaScript (Next.js), SQL
