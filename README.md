@@ -18,7 +18,7 @@
 
 * **Languages**: Python, TypeScript (Next.js)
 * **Tools & Frameworks**: Docker, AWS, GCP, Redis, MongoDB, Git, Blender
-* **Bioinformatics Tools**: Downstream analysis tools for sequencing data
+* **Bioinformatics Tools**: Cooler, Pairtools, BWA-MEM, MACS3, HiGlass, DESeq2, GATK & many more
 
 ### 🧩 **Current Focus**
 
