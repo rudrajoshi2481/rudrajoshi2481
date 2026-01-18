@@ -1,7 +1,7 @@
 
 ## 👋 Rudhra Joshi
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/rudhrajoshi/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/rudrajoshi2481/)
 [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square\&logo=Safari\&logoColor=white)](https://www.rudhrajoshi.me/)
 
 > **Bioinformatician • Software Developer • Pharmacy Graduate • Deep Learning Engineer**
