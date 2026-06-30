@@ -6,7 +6,7 @@
 
 > **Bioinformatician • Software Developer • Pharmacy Graduate • Deep Learning Engineer**
 
-> 🚀 Building foundation models: **ESM-2, AlphaFold2, DNABERT**
+> 🚀 Building foundation models: **ESM-2, AlphaFold2, DNABERT, Chromatin Language Models, Genomic Models**
 
 * **MS in Bioinformatics** at Rowan University
 * **Pharmacy Graduate** with hands-on experience in drug discovery and medicinal chemistry (anticancer drug)
